@@ -41,7 +41,7 @@ This project expands on the previous osTicket configuration lab by moving beyond
 
 
 > [!NOTE] 
-> This project builds upon a prior lab where the Azure environment, virtual machine, osTicket and various users and teams were created. **ADD LINK HERE**
+> This project builds upon a prior lab where the Azure environment, virtual machine, osTicket and various users and teams were created. <br />**[Part 2. osTicket: Configurations](https://github.com/MikeSays-1/osTicket-Config/) **
 
 **Admin/Analyst/Agent Login Page:**
 http://localhost/osTicket/scp/login.php 
